@@ -1,3 +1,2 @@
-# react-hhgz5v
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hhgz5v)
+# Movie-Recommendator-App
+This App recommends top movies with ratings
